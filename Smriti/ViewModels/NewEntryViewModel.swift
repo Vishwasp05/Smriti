@@ -1,5 +1,5 @@
 //
-//  AddNewEntryView.swift
+//  NewEntryViewModel.swift
 //  Smriti
 //
 //  Created by Vishwas Sharma on 22/04/24.
@@ -7,12 +7,12 @@
 
 import SwiftUI
 
-struct AddNewEntryView: View {
+struct NewEntryViewModel: View {
     var body: some View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
 }
 
 #Preview {
-    AddNewEntryView()
+    NewEntryViewModel()
 }
